@@ -1,11 +1,4 @@
-# Machine Learning Lab
+# MACHINE LEARNING LAB
 
-
-
-|---|---|
-| **Name** | Pamishetty Keermani |
-| **Register Number** | CH.SC.U4CSE24135 |
-
-
----
-
+**REG NO.:** CH.SC.U4CSE24135  
+**NAME:** Pamishetty Keermani
